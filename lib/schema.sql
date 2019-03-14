@@ -1,4 +1,4 @@
-PRAGMA foreign_keys = 1
+
 CREATE TABLE series(
   id INTEGER PRIMARY KEY,
   title TEXT,
